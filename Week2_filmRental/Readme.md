@@ -6,12 +6,12 @@ This folder contains the SQL script for the movie rental database.
 
 ### Screenshot 1: SQL Script in Editor
 
-![SQL Script](./query.png)
+![SQL Script](./screenshots/query.png)
 
 ### Screenshot 1: SQL Script in Editor
 
-![SQL Script](./query1.png)
+![SQL Script](./screenshots/query1.png)
 
-### Screenshot 2: Execution Result
+### Screenshot 2: Execution Result!
 
-![Execution Result](./query2.png)
+[SQL Script](./screenshots/query2.png)
