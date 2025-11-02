@@ -14,4 +14,4 @@ This folder contains the SQL script for the movie rental database.
 
 ### Screenshot 2: Execution Result!
 
-[SQL Script](./screenshots/query2.png)
+![SQL Script](./screenshots/query2.png)
